@@ -1,0 +1,11 @@
+{
+    "email": "your_email@example.com",
+    "password": "your_password",
+    "output_directory": "downloads",
+    "preferred_downloader": "yt-dlp",
+    "video_quality": "best",
+    "custom_headers": {
+        "Origin": "https://www.geeksforgeeks.org",
+        "Referer": "https://www.geeksforgeeks.org"
+    }
+}
