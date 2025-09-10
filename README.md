@@ -276,7 +276,7 @@ This tool is for educational purposes only. Please respect the terms of service 
 
 If you encounter any issues or have questions:
 
-1. Check the [Troubleshooting](#-troubleshooting) section
+1. Check the [Troubleshooting] section
 2. Search existing [Issues](https://github.com/dharaneesh-2005/gfg---HLS-encrypted-downloader/issues)
 3. Create a new issue with detailed information
 4. Include error messages and steps to reproduce
